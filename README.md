@@ -13,7 +13,7 @@ The paper titled **"Sim2Real Control with Dreamer: Low-Latency AI Torque Control
 - Deployment-ready ONNX actor exports with sub-millisecond inference
 - Full rollout diagnostics under dynamic target switching
 
-📄 **[LaTeX Paper](./paper/main.tex)** included.
+📄 **[Paper](https://drive.google.com/file/d/1TxVmFbiP9XxHE9Te54d_bTcgD2L_pNgr/view?usp=sharing)** 
 
 ---
 
